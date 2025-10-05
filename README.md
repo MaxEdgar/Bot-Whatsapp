@@ -76,9 +76,7 @@ node .
 
 
 License: [MIT](https://choosealicense.com/licenses/mit/)
-
-#### Support Me
-- [Saweria](https://saweria.co/maxedgar)
+
 
 ## Thanks to
 
